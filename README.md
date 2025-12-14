@@ -1,4 +1,4 @@
-# :computer: Capstone_Design_2
+# :computer: Capstone Design 2
 
 Unity를 이용한 메트로배니아 게임 개발
 
